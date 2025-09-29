@@ -10,7 +10,7 @@ See dokument on mõeldud sinu mängu analüüsi ja arendusprotsessi kirjeldamise
 ---
 
 ## 2. Mängu idee ja eesmärk
-> Mängu mõte on põgeneda igavast Geni tunnist, kuid kõik halvima poole, kui klassist lahkud.  
+> Mängu mõte on põgeneda igavast Genosi tunnist, kuid kõik halvima poole, kui klassist lahkud.  
 > Eesmärk on tutvustada Ametikooli ja selle läbi näidata, et koolis käimine on vajalik.
 
 ---
