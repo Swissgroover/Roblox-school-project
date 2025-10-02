@@ -64,4 +64,101 @@ See dokument on mõeldud sinu mängu analüüsi ja arendusprotsessi kirjeldamise
 
 ---
 
+## Tiim
+
+### 👤 Diana
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+
+### 👤 Erik
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+### 👤 Jan
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+### 👤 Kerdo
+> **Tehtud:**  
+> - Lobby süsteem
+> - Checkpoindid
+> - Red light green light minigame
+
+> **Teeb:**  
+> - Boss fight
+> - Shop (võibolla)
+
+---
+### 👤 Kert
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+### 👤 Mattias
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+### 👤 Patricia
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+### 👤 Rasmus
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+### 👤 Kevin
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+### 👤 Dmitro
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+
+### 👤 Robin
+> **Tehtud:**  
+> - 
+
+> **Teeb:**  
+> - 
+
+---
+
+
 ✍️ *Täida see dokument samm-sammult oma mängu loomise käigus.*
