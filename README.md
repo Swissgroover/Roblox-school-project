@@ -85,11 +85,12 @@ See dokument on mõeldud sinu mängu analüüsi ja arendusprotsessi kirjeldamise
 ---
 ### 👤 Jan
 > **Tehtud:**  
-> - 
+> - idle animation
+> - walking animation
 
 > **Teeb:**  
-> - 
-
+> - running animation
+> - crawling animation
 ---
 ### 👤 Kerdo
 > **Tehtud:**  
